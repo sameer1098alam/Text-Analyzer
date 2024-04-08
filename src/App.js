@@ -1,6 +1,7 @@
 import './Appa.css';
-import Navbar from './Navbar';
-import TextForm from './TextForm';
+import Navbar from '.src/Navbar';
+import TextForm from '.src/TextForm';
+
 
 function App() {
   return (
